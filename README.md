@@ -1,6 +1,8 @@
 # Clash
 MAC:  https://github.com/paradiseduo/ClashXR/releases 
+
 Android: https://github.com/Kr328/ClashForAndroid
+
 PC: https://github.com/BlueSkyXN/ClashR_for_windows_chinese
 
 Clash/clashR
