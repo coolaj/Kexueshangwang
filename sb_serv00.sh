@@ -479,7 +479,7 @@ menu() {
         1) install_singbox ;;
         2) uninstall_singbox ;; 
         3) cat $WORKDIR/list.txt ;; 
-        4) run_sb && sleep 3 ;; 
+        4) run_sb ;;
         0) exit 0 ;;
         *) red "无效的选项，请输入 0 到 3" ;;
     esac
